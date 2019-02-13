@@ -1,0 +1,6 @@
+owner=469442848152879104
+prefix=n
+game= Type nhelp.
+stayinchannel=true
+songinstatus=false
+token=NTQ1MzA0MjA2MzkxOTAyMjM2.D0Xtuw.vHlSOLCJdQSaBc3oXLfVr-oIQ40
